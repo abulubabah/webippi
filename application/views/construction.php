@@ -6,7 +6,7 @@
     <meta name="description" content="Website Resmi Sekolah YP IPPI Jakarta">
     <meta property="og:title" content="Website Resmi Sekolah YP IPPI Jakarta" />
     <meta property="og:description" content="Website Resmi Sekolah YP IPPI Jakarta"/>
-    <meta property="og:image" content="https://ypippi.sch.id/assets/constructionmode/img/logoypippi.png">
+    <meta property="og:image" content="assets/constructionmode/img/logoypippi.png">
     <title>Under Construtcion</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="robots" content="all,follow">
