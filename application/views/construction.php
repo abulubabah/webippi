@@ -5,6 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>Under Construtcion</title>
     <meta name="description" content="Website Resmi Sekolah YP IPPI Jakarta">
+    <meta property="og:description" content="Website Resmi Sekolah YP IPPI Jakarta" />
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="robots" content="all,follow">
     <!-- Bootstrap CSS-->
