@@ -6,7 +6,7 @@
     <meta name="description" content="Website Resmi Sekolah YP IPPI Jakarta">
     <meta property="og:title" content="Website Resmi Sekolah YP IPPI Jakarta" />
     <meta property="og:description" content="Website Resmi Sekolah YP IPPI Jakarta"/>
-    <!-- <title>Under Construtcion</title> -->
+    <title>Under Construtcion</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="robots" content="all,follow">
     <!-- Bootstrap CSS-->
