@@ -6,7 +6,7 @@
 			echo "test";
 			// return redirect()->to('welcome');
 			// $this->load->helper('url');
-			redirect(base_url().'https://sim.web.id/');
+			redirect('https://sim.web.id/');
 
 		}
 	}
