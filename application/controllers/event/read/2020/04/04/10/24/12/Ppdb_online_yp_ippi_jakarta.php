@@ -3,10 +3,12 @@
 	{
 		public function index()
 		{
-			return redirect()->to('construction');
+			echo "test";
+			// return redirect()->to('welcome');
+			// $this->load->helper('url');
+			redirect(base_url().'ppdb');
+
 		}
 	}
-
-
 
  ?>
